@@ -15,7 +15,7 @@ href="style.css">
 <h1> This better be an A+++.
 </h1>
 
-<img> src="classroom.jpeg"
+<img> src="classroom.jpg"
 
 <p> This class is hard.</p>
 <p id="frist"> i am not doing this next year
