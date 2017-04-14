@@ -1,17 +1,24 @@
 <html>
 
-
 <head>
 
-<title>
+<title> Test 1 sucks.</title>
 
 
-<link>
+<link rel="stylesheet"
+href="style.css">
+
+</head>
 
 <body>
 
-<img>
+<h1> This better be an A+++.
+</h1>
 
-<p> This class is hard 
+<img> src="classroom.jpeg"
 
-<h1>
+<p> This class is hard.</p>
+<p> i am not doing this next year
+</p>
+</body> 
+</html>
